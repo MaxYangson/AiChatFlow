@@ -25,6 +25,7 @@ const isCurrentConversationLoading = computed(() => {
 // 消息容器引用，用于滚动到底部
 const messagesContainer = ref<HTMLElement | null>(null);
 const showError = ref(false);
+const inputText = ref(''); // 输入框内容状态
 
 // 直接从当前会话获取消息（使用计算属性）
 const messages = computed<Message[]>(() => {
@@ -45,6 +46,11 @@ watch(messages, () => {
   });
 }, { deep: true });
 
+// 监听会话切换，清空输入框
+watch(currentConversationId, () => {
+  inputText.value = '';
+});
+
 // 滚动到底部函数
 const scrollToBottom = (): void => {
   if (messagesContainer.value) {
@@ -55,6 +61,7 @@ const scrollToBottom = (): void => {
 // 发送消息处理
 const handleSend = (content: string): void => {
   showError.value = false;
+  inputText.value = ''; // 发送后清空输入框
   sendMessage(content);
 };
 
@@ -156,6 +163,7 @@ if (!currentConversationId.value && conversations.value.length === 0) {
     
     <!-- 输入区域 -->
     <InputArea 
+      v-model="inputText"
       :disabled="isLoading" 
       @send="handleSend" 
     />
