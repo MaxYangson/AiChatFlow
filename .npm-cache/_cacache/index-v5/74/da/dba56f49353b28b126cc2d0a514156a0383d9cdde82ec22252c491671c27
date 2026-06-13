@@ -1,0 +1,2 @@
+
+d9adc59f9b19c032a4f609ddc1493d85f0b85206	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rollup%2frollup-darwin-arm64","integrity":null,"time":1781354323838,"size":"262","metadata":{"time":1781354323838,"url":"http://registry.npm.taobao.org/@rollup%2frollup-darwin-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:44 GMT","location":"https://registry.npmmirror.com/@rollup%2frollup-darwin-arm64"},"options":{"compress":true},"status":301}}

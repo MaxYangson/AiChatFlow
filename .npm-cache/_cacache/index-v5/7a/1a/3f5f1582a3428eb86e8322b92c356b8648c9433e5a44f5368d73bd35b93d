@@ -1,0 +1,2 @@
+
+82c15b21fab4cb38f1efbae995460323ca4675fd	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/mz","integrity":null,"time":1781354321382,"size":"262","metadata":{"time":1781354321382,"url":"http://registry.npm.taobao.org/mz","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:41 GMT","location":"https://registry.npmmirror.com/mz"},"options":{"compress":true},"status":301}}

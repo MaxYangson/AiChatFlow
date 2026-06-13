@@ -1,0 +1,2 @@
+
+1301c9a454321a14d8c765e94d880e45a5e4216f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/anymatch","integrity":null,"time":1781354321000,"size":"262","metadata":{"time":1781354321000,"url":"http://registry.npm.taobao.org/anymatch","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:41 GMT","location":"https://registry.npmmirror.com/anymatch"},"options":{"compress":true},"status":301}}

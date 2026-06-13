@@ -1,0 +1,2 @@
+
+8feb6d38500be43368cfd079b174ce071dc3d50f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/fraction.js","integrity":null,"time":1781354319508,"size":"262","metadata":{"time":1781354319508,"url":"http://registry.npm.taobao.org/fraction.js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:39 GMT","location":"https://registry.npmmirror.com/fraction.js"},"options":{"compress":true},"status":301}}

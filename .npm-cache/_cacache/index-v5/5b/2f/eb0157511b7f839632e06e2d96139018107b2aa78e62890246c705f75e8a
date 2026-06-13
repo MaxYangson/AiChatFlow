@@ -1,0 +1,2 @@
+
+009842304ae3cc8975ccf44c370a1bfe6f94c5fe	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@rollup%2frollup-linux-riscv64-gnu","integrity":null,"time":1781354324036,"size":"262","metadata":{"time":1781354324036,"url":"http://registry.npm.taobao.org/@rollup%2frollup-linux-riscv64-gnu","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:44 GMT","location":"https://registry.npmmirror.com/@rollup%2frollup-linux-riscv64-gnu"},"options":{"compress":true},"status":301}}

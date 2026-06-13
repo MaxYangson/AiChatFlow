@@ -1,0 +1,2 @@
+
+8a364d7c4a692b5c84da32b75df3242e8ce894b5	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@esbuild%2flinux-ia32","integrity":null,"time":1781354323440,"size":"262","metadata":{"time":1781354323440,"url":"http://registry.npm.taobao.org/@esbuild%2flinux-ia32","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:43 GMT","location":"https://registry.npmmirror.com/@esbuild%2flinux-ia32"},"options":{"compress":true},"status":301}}

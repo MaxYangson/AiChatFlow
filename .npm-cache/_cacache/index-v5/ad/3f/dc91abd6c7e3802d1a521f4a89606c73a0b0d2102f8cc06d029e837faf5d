@@ -1,0 +1,2 @@
+
+79577a6acbc105ce5527ad4a779f954518901069	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/escalade","integrity":null,"time":1781354320591,"size":"262","metadata":{"time":1781354320591,"url":"http://registry.npm.taobao.org/escalade","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:40 GMT","location":"https://registry.npmmirror.com/escalade"},"options":{"compress":true},"status":301}}

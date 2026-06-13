@@ -1,0 +1,2 @@
+
+f18c82fa9f3258339c2c22c794f06680d1ec67bf	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/stylus","integrity":null,"time":1781354318072,"size":"262","metadata":{"time":1781354318072,"url":"http://registry.npm.taobao.org/stylus","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:38 GMT","location":"https://registry.npmmirror.com/stylus"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+21e491e6a12b5988e4ed7a78f95c092637005d27	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vue%2fcompiler-sfc","integrity":null,"time":1781354319124,"size":"262","metadata":{"time":1781354319124,"url":"http://registry.npm.taobao.org/@vue%2fcompiler-sfc","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:39 GMT","location":"https://registry.npmmirror.com/@vue%2fcompiler-sfc"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+38d06987f1951d80cf674addbedf55a31b6166f1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@esbuild%2fnetbsd-x64","integrity":null,"time":1781354323647,"size":"262","metadata":{"time":1781354323647,"url":"http://registry.npm.taobao.org/@esbuild%2fnetbsd-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:43 GMT","location":"https://registry.npmmirror.com/@esbuild%2fnetbsd-x64"},"options":{"compress":true},"status":301}}

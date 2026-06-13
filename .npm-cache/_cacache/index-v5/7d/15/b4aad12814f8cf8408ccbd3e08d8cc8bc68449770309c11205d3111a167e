@@ -1,0 +1,2 @@
+
+f0be840492e78f0d52c099121a892ac03b1c663f	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@jridgewell%2ftrace-mapping","integrity":null,"time":1781354322752,"size":"262","metadata":{"time":1781354322752,"url":"http://registry.npm.taobao.org/@jridgewell%2ftrace-mapping","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:42 GMT","location":"https://registry.npmmirror.com/@jridgewell%2ftrace-mapping"},"options":{"compress":true},"status":301}}

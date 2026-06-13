@@ -1,0 +1,2 @@
+
+4a71726dd521a96ae89d23cea03d2055c1b2d080	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/magic-string","integrity":null,"time":1781354324495,"size":"262","metadata":{"time":1781354324495,"url":"http://registry.npm.taobao.org/magic-string","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:44 GMT","location":"https://registry.npmmirror.com/magic-string"},"options":{"compress":true},"status":301}}

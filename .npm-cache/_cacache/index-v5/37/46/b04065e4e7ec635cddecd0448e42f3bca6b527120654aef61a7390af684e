@@ -1,0 +1,2 @@
+
+765e701b3cf1a6e3590f4c016102e89a3111ae58	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/didyoumean","integrity":null,"time":1781354319717,"size":"262","metadata":{"time":1781354319716,"url":"http://registry.npm.taobao.org/didyoumean","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:39 GMT","location":"https://registry.npmmirror.com/didyoumean"},"options":{"compress":true},"status":301}}

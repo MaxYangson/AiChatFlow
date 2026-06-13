@@ -1,0 +1,2 @@
+
+328285a977ff2688ff64617c2c7e30b274b16c7e	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/baseline-browser-mapping","integrity":null,"time":1781354320182,"size":"262","metadata":{"time":1781354320181,"url":"http://registry.npm.taobao.org/baseline-browser-mapping","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:40 GMT","location":"https://registry.npmmirror.com/baseline-browser-mapping"},"options":{"compress":true},"status":301}}

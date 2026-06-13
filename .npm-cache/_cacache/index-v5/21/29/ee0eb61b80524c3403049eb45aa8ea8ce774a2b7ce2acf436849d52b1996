@@ -1,0 +1,2 @@
+
+99bcd5df1c68034050f55b21910db9cdd9768462	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@esbuild%2fandroid-arm","integrity":null,"time":1781354323247,"size":"262","metadata":{"time":1781354323247,"url":"http://registry.npm.taobao.org/@esbuild%2fandroid-arm","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:43 GMT","location":"https://registry.npmmirror.com/@esbuild%2fandroid-arm"},"options":{"compress":true},"status":301}}

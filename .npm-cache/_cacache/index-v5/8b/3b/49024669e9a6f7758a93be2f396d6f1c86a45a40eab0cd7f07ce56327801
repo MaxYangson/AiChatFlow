@@ -1,0 +1,2 @@
+
+6d6f38958d06389890ee7f3bf0c639cb5d3ec8c3	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/tsx","integrity":null,"time":1781354320705,"size":"262","metadata":{"time":1781354320705,"url":"http://registry.npm.taobao.org/tsx","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:40 GMT","location":"https://registry.npmmirror.com/tsx"},"options":{"compress":true},"status":301}}

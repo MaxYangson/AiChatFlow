@@ -1,0 +1,2 @@
+
+6f5ab61e4943e3b9855de7edcae967ba0bfbbd07	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@esbuild%2ffreebsd-x64","integrity":null,"time":1781354323341,"size":"262","metadata":{"time":1781354323341,"url":"http://registry.npm.taobao.org/@esbuild%2ffreebsd-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:43 GMT","location":"https://registry.npmmirror.com/@esbuild%2ffreebsd-x64"},"options":{"compress":true},"status":301}}

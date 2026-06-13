@@ -1,0 +1,2 @@
+
+277f079457eaf6b7e318fcffaf2dde3d558beee1	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/update-browserslist-db","integrity":null,"time":1781354320177,"size":"262","metadata":{"time":1781354320177,"url":"http://registry.npm.taobao.org/update-browserslist-db","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:40 GMT","location":"https://registry.npmmirror.com/update-browserslist-db"},"options":{"compress":true},"status":301}}

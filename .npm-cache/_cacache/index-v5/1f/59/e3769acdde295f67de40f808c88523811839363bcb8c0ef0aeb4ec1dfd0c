@@ -1,0 +1,2 @@
+
+541579cdf10778ca15f93f0dfe42473f2cce1b63	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/lilconfig","integrity":null,"time":1781354319835,"size":"262","metadata":{"time":1781354319835,"url":"http://registry.npm.taobao.org/lilconfig","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:40 GMT","location":"https://registry.npmmirror.com/lilconfig"},"options":{"compress":true},"status":301}}

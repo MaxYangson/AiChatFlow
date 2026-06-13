@@ -1,0 +1,2 @@
+
+bbfa35d98da5e7baf49a700e6fb2371a51222809	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@esbuild%2ffreebsd-arm64","integrity":null,"time":1781354323243,"size":"262","metadata":{"time":1781354323242,"url":"http://registry.npm.taobao.org/@esbuild%2ffreebsd-arm64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:43 GMT","location":"https://registry.npmmirror.com/@esbuild%2ffreebsd-arm64"},"options":{"compress":true},"status":301}}

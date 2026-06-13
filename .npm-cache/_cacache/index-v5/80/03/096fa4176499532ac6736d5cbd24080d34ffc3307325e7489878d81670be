@@ -1,0 +1,2 @@
+
+e239ae9b00a87e2cb1eb53208c31a9b456062f81	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@vue%2fruntime-core","integrity":null,"time":1781354324626,"size":"262","metadata":{"time":1781354324626,"url":"http://registry.npm.taobao.org/@vue%2fruntime-core","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:44 GMT","location":"https://registry.npmmirror.com/@vue%2fruntime-core"},"options":{"compress":true},"status":301}}

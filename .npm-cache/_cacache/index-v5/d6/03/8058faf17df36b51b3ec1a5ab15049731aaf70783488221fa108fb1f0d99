@@ -1,0 +1,2 @@
+
+1432232f5347cef541c237a0f287ee2db29019d8	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/cssesc","integrity":null,"time":1781354321215,"size":"262","metadata":{"time":1781354321215,"url":"http://registry.npm.taobao.org/cssesc","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:41 GMT","location":"https://registry.npmmirror.com/cssesc"},"options":{"compress":true},"status":301}}

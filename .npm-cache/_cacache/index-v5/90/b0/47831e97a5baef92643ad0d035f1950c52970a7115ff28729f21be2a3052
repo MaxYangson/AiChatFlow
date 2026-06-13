@@ -1,0 +1,2 @@
+
+2e0558f02223e2d02bb7c4b3a1a054cc90852ee7	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/postcss-selector-parser","integrity":null,"time":1781354319966,"size":"262","metadata":{"time":1781354319966,"url":"http://registry.npm.taobao.org/postcss-selector-parser","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:40 GMT","location":"https://registry.npmmirror.com/postcss-selector-parser"},"options":{"compress":true},"status":301}}

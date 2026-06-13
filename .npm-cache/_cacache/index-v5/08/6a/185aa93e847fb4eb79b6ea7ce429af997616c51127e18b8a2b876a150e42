@@ -1,0 +1,2 @@
+
+c7c7d949374ba50cc1814e12887044945292eacc	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/highlight.js","integrity":null,"time":1781361694209,"size":"262","metadata":{"time":1781361694209,"url":"http://registry.npm.taobao.org/highlight.js","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 14:41:34 GMT","location":"https://registry.npmmirror.com/highlight.js"},"options":{"compress":true},"status":301}}

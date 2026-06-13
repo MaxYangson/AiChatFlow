@@ -1,0 +1,2 @@
+
+153b10d79abd459e461b5944d78cfc30743a3959	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/vscode-uri","integrity":null,"time":1781358785616,"size":"262","metadata":{"time":1781358785616,"url":"http://registry.npm.taobao.org/vscode-uri","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 13:53:05 GMT","location":"https://registry.npmmirror.com/vscode-uri"},"options":{"compress":true},"status":301}}

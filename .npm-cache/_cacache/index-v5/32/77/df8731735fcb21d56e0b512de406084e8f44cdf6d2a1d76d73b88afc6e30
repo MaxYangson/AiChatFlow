@@ -1,0 +1,2 @@
+
+563316a93268855d4c9c6a761e3b820eb51c65cb	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/supports-preserve-symlinks-flag","integrity":null,"time":1781354321319,"size":"262","metadata":{"time":1781354321319,"url":"http://registry.npm.taobao.org/supports-preserve-symlinks-flag","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:41 GMT","location":"https://registry.npmmirror.com/supports-preserve-symlinks-flag"},"options":{"compress":true},"status":301}}

@@ -1,0 +1,2 @@
+
+5b1555a2087997a1c7ef9d24b1d5239dcbe6f665	{"key":"make-fetch-happen:request-cache:http://registry.npm.taobao.org/@esbuild%2fdarwin-x64","integrity":null,"time":1781354323254,"size":"262","metadata":{"time":1781354323254,"url":"http://registry.npm.taobao.org/@esbuild%2fdarwin-x64","reqHeaders":{"accept":"application/json"},"resHeaders":{"content-type":"text/html","date":"Sat, 13 Jun 2026 12:38:43 GMT","location":"https://registry.npmmirror.com/@esbuild%2fdarwin-x64"},"options":{"compress":true},"status":301}}
